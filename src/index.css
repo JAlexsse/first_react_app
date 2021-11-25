@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.app {
+  max-width: 80%;
+  margin: 0 auto;
+  font-family: 'Roboto Condensed', sans-serif;
+}
